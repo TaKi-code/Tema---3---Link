@@ -1,0 +1,32 @@
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: rgb(12, 243, 70);
+}
+th {
+    padding: 30px;
+  }
+  body {
+    width: 960px;
+    margin: 20px auto;
+  }
+
+  header {
+    border-bottom: 1px solid gray;
+    padding: 8px 0 8px 0;
+  }
+
+  section {
+    display: inline-block;
+    width: 600px;
+    padding: 0 8px 0 0;
+    border-right: 1px solid gray;
+    margin-bottom: 8px;
+  }
+  aside {
+    display: inline-block;
+    width: 343px;
+    vertical-align: top;
+    padding: 0 0 0 8px;
+  }
